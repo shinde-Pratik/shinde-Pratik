@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinde-Pratik)](https://github.com/shinde-Pratik/github-profile-trophy)
-
-
 - 👋 Hi, I’m @shinde-Pratik
 - 👀 I’m interested in web develpoment & open source community
 - 🌱 I’m currently learning Node Framework
