@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=shinde-Pratik)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shinde-Pratik)](https://github.com/shinde-Pratik/github-profile-trophy)
 
 
 - 👋 Hi, I’m @shinde-Pratik
